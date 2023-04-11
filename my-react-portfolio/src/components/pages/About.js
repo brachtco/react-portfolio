@@ -3,14 +3,15 @@ import React from 'react';
 export default function About() {
   return (
     <div>
-      <h1>About Page</h1>
+      <h1>About Me</h1>
       <p>
-        Nunc pharetra finibus est at efficitur. Praesent sed congue diam.
-        Integer gravida dui mauris, ut interdum nunc egestas sed. Aenean sed
-        mollis diam. Nunc aliquet risus ac finibus porta. Nam quis arcu non
-        lectus tincidunt fermentum. Suspendisse aliquet orci porta quam semper
-        imperdiet. Praesent euismod mi justo, faucibus scelerisque risus cursus
-        in. Sed rhoncus mollis diam, sit amet facilisis lectus blandit at.
+            I have earned a full stack web development certification at a 
+            University of Utah bootcamp. I now have a working knowledge of
+            HTML, CSS, Javascript, API, SQL, OOP, MERN, NoSQL and React.
+            I also have a Salesforce Administrator Certification,
+            and have experience in online media buying and analytics. I live in the mountains
+            in Utah with my wife, son and daughter. I enjoy skiing, mountain biking, camping
+            and SQL queries. 
       </p>
     </div>
   );
