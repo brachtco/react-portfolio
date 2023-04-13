@@ -5,7 +5,10 @@ function Footer() {
     <footer>
       <h2>Made by Danny Bracht</h2>
       <p>
-        ⓒ 2023 <a href="https://github.com/brachtco">Github</a>
+        ⓒ 2023{" "}
+        <a href="https://github.com/brachtco/" target="_blank">
+          Github
+        </a>
       </p>
     </footer>
   );
