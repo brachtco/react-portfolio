@@ -1,6 +1,129 @@
+body {
+  background-color: rgb(227, 227, 216);
+}
 header {
     padding: 10px;
     background-color: #595757;
     color: white;
     height: 25%;
+  }
+
+  h1 {
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  h2 {
+    color: rgb(123, 44, 117);
+    text-align: center;
+  }
+
+  h3 {
+      text-align: center;
+  }
+
+  .nav-tabs {
+    display: flex;
+    justify-content: flex-end;
+    background-color: #2F8BBF;
+    width: 100%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+
+  .nav-item {
+    list-style-type: none;
+    padding: 5px;
+    margin-right: 50px;
+    color:antiquewhite;
+    text-decoration: none;
+  }
+  
+  nav a {
+    color:antiquewhite;
+    text-decoration: none;
+    padding: 10px 10px 10px 10px;
+  
+  }
+
+  footer {
+    width: 100%;
+    padding: 20px;
+    background: #c57512;
+    color: white;
+    margin-top: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 1050px;
+  }
+
+  .name {
+    font-size: 20px;
+  }
+
+  .job-img {
+    height: 500px;
+    width: 400px;
+    text-align: center;
+    margin-left: 400px;
+    margin-top: 100px;
+  }
+
+  .job-img2 {
+    height: 600px;
+    width: 400px;
+    text-align: center;
+    margin-left: 400px;
+  }
+
+  .job-text {
+    color:rgb(41, 32, 108);
+    margin-right: 150px;
+    margin-left: 150px;
+    line-height: 2;
+    margin-bottom: 100px;
+    margin-top: 25px;
+  }
+
+  .job-text2 {
+    color:rgb(41, 32, 108);
+    margin-bottom: 350px;
+    margin-right: 150px;
+    margin-left: 150px;
+    line-height: 2;
+  }
+
+  .copyright {
+    margin-right: 30px;
+    text-align: center;
+  }
+
+  .github {
+    margin-right: 50px;
+    display:flex;
+    color:antiquewhite;
+  }
+
+  .about {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+  }
+
+  .about-text {
+    color:rgb(41, 32, 108);
+    margin-right: 150px;
+    margin-left: 150px;
+    margin-top: 50px;
+    padding: 15px;
+    line-height: 2;
+  }
+
+  .contact-text {
+    color:rgb(41, 32, 108);
+    line-height: 4;
+    margin-left: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
   }

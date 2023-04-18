@@ -13,7 +13,7 @@ export default function Portfolio() {
         <div className="job">
           <div className="job-info">
             <div className="job-img">
-              <a href="https://brachtco.github.io/know-your-music/">
+              <a href="https://brachtco.github.io/know-your-music/" target="_blank">
                 {" "}
                 <img
                   src={knowYourMusicImage}
@@ -24,7 +24,7 @@ export default function Portfolio() {
               </a>
             </div>
             <div className="job-text">
-              <h4>Know Your Music</h4>
+              <h3>Know Your Music</h3>
               <p>
                 Know Your Music is a website that allows the user to search up
                 any music artist and recieve relevant information about them.
@@ -40,8 +40,8 @@ export default function Portfolio() {
 
         <div className="job">
           <div className="job-info">
-            <div className="job-img">
-              <a href="https://github.com/brachtco/the-mealer-dealer">
+            <div className="job-img2">
+              <a href="https://the-mealer-dealer-production.up.railway.app/" target="_blank">
                 {" "}
                 <img
                   src={mealerDealerImage}
@@ -51,8 +51,8 @@ export default function Portfolio() {
                 />
               </a>
             </div>
-            <div className="job-text">
-              <h4>The Mealer Dealer</h4>
+            <div className="job-text2">
+              <h3>The Mealer Dealer</h3>
               <p>
                 The Mealer Dealer is a meal prep app that allows users to input
                 various criteria, which has the app select a meal based on the

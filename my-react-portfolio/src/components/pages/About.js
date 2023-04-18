@@ -3,8 +3,9 @@ import React from 'react';
 export default function About() {
   return (
     <div>
-      <h1>About Me</h1>
-      <p>
+      <h2 class="about">About Me</h2>
+      <img src="../../assets/dbracht.jpeg" class="headshot" alt="Danny Bracht photo"></img>
+      <p class="about-text">
             I have earned a full stack web development certification at a 
             University of Utah bootcamp. I now have a working knowledge of
             HTML, CSS, Javascript, API, SQL, OOP, MERN, NoSQL and React.
