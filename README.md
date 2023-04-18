@@ -15,12 +15,12 @@ team  project as well as more enhancements.
 
 ## Installation
 
-npm
-react
-react-dom
-react-router-dom
-gh-pages
-materialize-css
+npm  
+react  
+react-dom  
+react-router-dom  
+gh-pages  
+materialize-css  
 
 ## Usage
 
@@ -31,7 +31,6 @@ materialize-css
 ### About page
 
 ![Screenshot 2023-04-18 at 11 25 50 AM](https://user-images.githubusercontent.com/17559972/232856811-cb1963a8-018d-41b9-9ff1-a8ac377fd833.png)
-)
 
 ### Contact page
 
@@ -41,4 +40,13 @@ materialize-css
 
 <img width="1181" alt="Screenshot 2023-04-18 at 11 27 11 AM" src="https://user-images.githubusercontent.com/17559972/232857333-f7eee392-3d96-4bd7-b868-ba128fa1cd75.png">
 
+## License
 
+MIT
+https://opensource.org/license/mit/
+
+## Links
+
+Deployed Link: 
+
+Github Repo: 
