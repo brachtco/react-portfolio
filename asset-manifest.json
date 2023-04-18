@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/react-portfolio/static/js/main.b4b8c726.js",
+    "main.css": "/react-portfolio/static/css/main.153d60e7.css",
+    "main.js": "/react-portfolio/static/js/main.746af281.js",
     "static/js/787.56d9acf9.chunk.js": "/react-portfolio/static/js/787.56d9acf9.chunk.js",
     "static/media/the-mealer-dealer.png": "/react-portfolio/static/media/the-mealer-dealer.e887e2a5f891bd7528f6.png",
     "static/media/know-your-music.png": "/react-portfolio/static/media/know-your-music.9add68177b0b3ca1dedb.png",
     "index.html": "/react-portfolio/index.html",
-    "main.073c9b0a.css.map": "/react-portfolio/static/css/main.073c9b0a.css.map",
-    "main.b4b8c726.js.map": "/react-portfolio/static/js/main.b4b8c726.js.map",
+    "main.153d60e7.css.map": "/react-portfolio/static/css/main.153d60e7.css.map",
+    "main.746af281.js.map": "/react-portfolio/static/js/main.746af281.js.map",
     "787.56d9acf9.chunk.js.map": "/react-portfolio/static/js/787.56d9acf9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.b4b8c726.js"
+    "static/css/main.153d60e7.css",
+    "static/js/main.746af281.js"
   ]
 }
