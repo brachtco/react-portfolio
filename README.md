@@ -42,7 +42,7 @@ materialize-css
 
 ## License
 
-MIT
+MIT  
 https://opensource.org/license/mit/
 
 ## Links
