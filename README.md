@@ -49,4 +49,4 @@ https://opensource.org/license/mit/
 
 Deployed Link: https://brachtco.github.io/react-portfolio/
 
-Github Repo: 
+Github Repo: https://github.com/brachtco/react-portfolio
